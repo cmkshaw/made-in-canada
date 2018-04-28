@@ -10,7 +10,7 @@ A living document of Canadian textile designers.
 
 [Ursa Minor](https://ursaminorstudio.com/)
 
-[Soft Focus](https://insoftfocus.com/
+[Soft Focus](https://insoftfocus.com/)
 
 [Thief & Bandit](https://thiefandbandit.com/)
 
