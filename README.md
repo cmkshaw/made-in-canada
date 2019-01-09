@@ -12,6 +12,8 @@ A living document of Canadian textile designers.
 
 [Odeyalo](https://odeyaloclothing.com/)
 
+[Muttonhead](https://www.muttonheadstore.com)
+
 [Soft Focus](https://insoftfocus.com/)
 
 [Thief & Bandit](https://thiefandbandit.com/)
