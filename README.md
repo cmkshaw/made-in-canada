@@ -20,6 +20,8 @@ A living document of Canadian textile designers.
 
 [Birds of North America](https://birdsofnorthamerica.com/)
 
+[Maguire](https://maguireboutique.com)
+
 # How to Contribute
 
 Create a pull request with your suggested additions/changes and I'll review it promptly.
