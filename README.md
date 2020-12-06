@@ -22,6 +22,10 @@ A living document of Canadian textile designers.
 
 [Maguire](https://maguireboutique.com)
 
+[Jennifer Glasgow](https://www.jenniferglasgowdesign.com/)
+
+[Dagg & Stacey](https://daggandstacey.com/)
+
 # How to Contribute
 
 Create a pull request with your suggested additions/changes and I'll review it promptly.
